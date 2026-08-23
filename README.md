@@ -390,5 +390,5 @@ Never perform device persona conversions inside a live production network.
 Undated notes cannot be correlated against event logs later. Date everything.
 When a monitoring platform reports something that seems wrong, establish what it is actually
 measuring before assuming the measurement is faulty — and equally, before assuming it is correct.
----
+
 Prepared as a public summary of internship work. Environment-specific detail intentionally omitted.
